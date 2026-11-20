@@ -1,0 +1,6 @@
+{
+  "name": "LOVE RESCUE: THE LAST MISSION",
+  "description": "A 50-level 2D side-scrolling platform adventure game across five worlds with expressive cartoon characters, boss fights, and cinematic rescue story cutscenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
